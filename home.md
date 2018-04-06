@@ -7,6 +7,7 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 -----
 
 [:school: les campus](/42-world)
+	- [:soccer: Paris - clubs et associations](/42-world/campus-paris/clubs)
 
 -----
 
@@ -15,13 +16,9 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 -----
 
 [:books: cursus 42](/cursus)
-		- [projets](/cursus/projects)
-		- [partenariats, matrices](/cursus/partenariats)
-		- [pedagogie](/cursus/pédagogie)
-
------
-
-[:soccer: clubs et associations](/42-world/campus-paris/clubs)
+	- [projets](/cursus/projects)
+	- [partenariats, matrices](/cursus/partenariats)
+	- [pedagogie](/cursus/pédagogie)
 
 -----
 
