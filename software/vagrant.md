@@ -49,5 +49,5 @@ mkdir /Volumes/Storage/goinfre/$USER/vagrant
 echo 'export VAGRANT_HOME=/Volumes/Storage/goinfre/$USER/vagrant' >> ~/.zshrc
 ```
 
-Pour **VirtualBox** suivez [ce guide en image]( http://www.thisprogrammingthing.com/2013/changing-the-directory-vagrant-stores-the-vms-in/119), ce sera plus simple.
+Pour **VirtualBox** suivez [ce guide en image](http://www.thisprogrammingthing.com/2013/changing-the-directory-vagrant-stores-the-vms-in/), ce sera plus simple.
 N'oubliez pas d'adapter l'emplacement de stockage. Par exemple pour du stockage en local: `/Volumes/Storage/goinfre/$USER/virtualbox`
