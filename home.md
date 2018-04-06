@@ -41,10 +41,6 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 	- [ ] cursus electronique
 	- [ ] stages
 
-- [todo partenariats](/todo/partenariats)
-
-- [todo campus/ecoles cousines](/todo/ausland)
-
 - bouton anglais/francais/other languages ?
 ## todo technique
 
