@@ -1,7 +1,4 @@
-<!-- TITLE: Pdagogie -->
-<!-- SUBTITLE: A quick summary of Pdagogie -->
-
-# Pedagogie 42
+<!-- TITLE: Pédagogie -->
 
 Les étudiants peuvent participer à la pédagogie sur https://42born2peer.42.fr !
  
