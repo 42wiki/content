@@ -28,6 +28,6 @@ Malheureusement le [iSCSI](https://en.wikipedia.org/wiki/ISCSI) de l'école est 
 ## Virtualisation / containerisation
 - [ ] [virtualbox](/software/virtualbox)
 - [ ] [vmware](/software/vmware)
-- [ ] [vagrant](/software/vagrant) - virtualbox/vmware wrapper
+- [x] [vagrant](/software/vagrant) - virtualbox/vmware wrapper
 - [x] [qemu](/software/qemu)
 - [ ] [docker](/software/docker) - linux container daemon
