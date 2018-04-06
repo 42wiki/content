@@ -7,7 +7,7 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 -----
 
 [:school: les campus](/42-world)
-	- [:soccer: Paris - clubs et associations](/42-world/campus-paris/clubs)
+	- [Paris - clubs et associations](/42-world/campus-paris/clubs)
 
 -----
 
