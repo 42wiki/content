@@ -1,13 +1,12 @@
 ![42 Logo](/uploads/42-logo.png "42 Logo"){.pagelogo}
 
-Le wiki est désormais en beta publique, aucune date de release prevue
+Le wiki est désormais en beta publique
 
-Toute discussion technique sur slack, demander une invitation à @abarriel @wescande ou @jhalford
+les discussions techniques sont sur slack, demander une invitation à @abarriel @wescande ou @jhalford
 
 -----
 
-[:books: projets](/Projects)
-
+[:school: les campus](/42-world)
 
 -----
 
@@ -15,15 +14,17 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:soccer: [clubs et associations](/campus-paris/clubs)
+[le cursus 42](/cursus)
+	- [:books: projets](/cursus/projects)
+	- [partenariats, matrices et projects](/cursus/partenariats)
+	- [pédagogie](/cursus/pédagogie)
 
 -----
 
-[partenariats, matrices et projects](/partenariats)
+[:soccer: clubs et associations](/42-world/campus-paris/clubs)
 
 -----
 
-[ecoles soeurs et cousines](/ausland)
 # Roadmap Wiki42
 
 ## todo content
