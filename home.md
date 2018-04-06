@@ -14,10 +14,10 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 
 -----
 
-[le cursus 42](/cursus)
-	- [:books: projets](/cursus/projects)
-	- [partenariats, matrices et projects](/cursus/partenariats)
-	- [pédagogie](/cursus/pédagogie)
+[:books: cursus 42](/cursus)
+		- [projets](/cursus/projects)
+		- [partenariats, matrices](/cursus/partenariats)
+		- [pédagogie](/cursus/pédagogie)
 
 -----
 
