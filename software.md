@@ -31,6 +31,3 @@ Malheureusement le [iSCSI](https://en.wikipedia.org/wiki/ISCSI) de l'école est 
 - [ ] [vagrant](/software/vagrant) - virtualbox/vmware wrapper
 - [x] [qemu](/software/qemu)
 - [ ] [docker](/software/docker) - linux container daemon
-## Systems
-- [] [Unix](/software/unix)
-- [] [Microsoft Windows](/software/windaube)
