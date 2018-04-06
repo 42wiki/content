@@ -1,10 +1,17 @@
+![42 Logo](/uploads/42-logo.png "42 Logo"){.pagelogo}
+
 Le wiki est désormais en beta publique, aucune date de release prevue
 
 Toute discussion technique sur slack, demander une invitation à @abarriel @wescande ou @jhalford
 
 -----
 
-:books: [projets](/Projects)
+[:books: projets](/Projects)
+
+
+-----
+
+[:mag: software](/software){.align-center}
 
 -----
 
@@ -12,9 +19,11 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 
 -----
 
-:mag: [software](/software)
+[partenariats, matrices et projects](/partenariats)
 
 -----
+
+[ecoles soeurs et cousines](/ausland)
 # Roadmap Wiki42
 
 ## todo content
@@ -34,8 +43,11 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 	- [ ] cursus electronique
 	- [ ] stages
 
-- les partenariats, HEC etc
+- [todo partenariats](/todo/partenariats)
 
+- [todo campus/ecoles cousines](/todo/ausland)
+
+- bouton anglais/francais/other languages ?
 ## todo technique
 
 - parser markdown maison
@@ -44,3 +56,4 @@ Toute discussion technique sur slack, demander une invitation à @abarriel @wesc
 - [ ] historique des edits --> `wiki.js` 2.0 deja dans leur roadmap
 - [ ] "edited by @login" en haut de page
 - [ ] remplacer le logo `wiki.js` par un logo 42? sur ce genre de page => [test](/test)
+- [ ] remplacer le favicon par un logo 42? ou alors un logo custom comme a fait stud si un designer veut bien se chauffer!
