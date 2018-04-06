@@ -11,7 +11,7 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 
 -----
 
-## [:mag: software](/software){.align-center}
+[:mag: software](/software){.align-center}
 
 -----
 
