@@ -4,6 +4,9 @@
 le [MSC (Managed Sotfware Center)](/software/msc) permet d'installer un catalogue d'applications GUI sur les macs de l'école.Pour tout le reste il y a [brew](/software/brew).
 Malheureusement le [iSCSI](https://en.wikipedia.org/wiki/ISCSI) de l'école est setup uniquement avec `macOs`, pour utiliser d'autres OS vous devez passer par de la virtualisation ou containerisation.
 
+## Réductions et bons plans
+
+- [x] [bons plans](/software/bon-plans)
 
 ## Editeurs de texte
 - [ ] [vim](/software/vim)
