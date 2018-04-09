@@ -20,4 +20,5 @@ Plus d'infos sur https://food.42.fr
 
 ## Andy Sushi, traiteur asiatique
 
+74 rue de la jonquière
 6.50€ le menu chinois
