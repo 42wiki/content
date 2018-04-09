@@ -1,8 +1,4 @@
-<!-- TITLE:  Liste des Partenariats, Promos et Avantages pour les étudiants -->
-<!-- SUBTITLE:  Liste des Partenariats, Promos et Avantages pour les étudiants -->
-
-
-* # Autres Offres non limitées aux etudiants de 42
+<!-- TITLE:  Software bon plans -->
 
 ### Utilitaires VCS
 * [Github](https://education.github.com/pack "GitHub"), que vous connaissez tous, propose un compte etudiant avec une reduction de 7$ par mois ce qui vous permets d’avoir des Repositories prives pendant 2 ans `Testé et marche avec votre adresse @student.42.fr !` 
