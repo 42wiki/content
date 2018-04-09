@@ -1,6 +1,4 @@
 <!-- TITLE: Make -->
-<!-- SUBTITLE: A quick summary of Make -->
-
 # Introduction 
 Le lien suivant est un passage obligatoire: https://fr.wikipedia.org/wiki/Make
 Une documentation assez classique: http://gl.developpez.com/tutoriel/outil/makefile/
