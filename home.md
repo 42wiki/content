@@ -19,7 +19,7 @@ les discussions techniques sont sur slack, demander une invitation à @abarriel 
 	- [projets](/cursus/projects)
 	- [partenariats, matrices](/cursus/partenariats)
 	- [pedagogie](/cursus/pedagogie)
-
+	- [websitebystudent](/school-website)
 -----
 
 # Roadmap Wiki42
