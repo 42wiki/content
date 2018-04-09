@@ -1,5 +1,5 @@
-# Vagrant
-
+<!-- TITLE: Vagrant -->
+# Introduction
 ## Qu'est ce que c'est ?
 **Vagrant** vous permet de construire et gérer des machines virtuelles facilement. Il utilise un *provider* en backend (typiquement VirtualBox) pour toute la partie virtualisation.
 Vous pouvez vous representez **Vagrant** comme un *wrapper* autour de VirtualBox (par exemple).
