@@ -2,19 +2,19 @@
 <!-- SUBTITLE: A quick summary of Partenariats, Matrices, Projects -->
 
 ## HEC
-- [] [Digital Entrepreneur](/partenariats/digital-entrepreneur)
-- [] [Startup Launchpad](/partenariats/startup-launchpad)
-- [] [HEC-42 Valley](/partenariats/hec-valley)
-- [] [Certificat Leadership](/partenariats/leadership) same as Digital Entrepeneur ?
-- [] [Academie Design Thinking](/partenariats/design-thinking)
+- [] [Digital Entrepreneur](/cursus/partenariats/digital-entrepreneur)
+- [] [Startup Launchpad](/cursus/partenariats/startup-launchpad)
+- [] [HEC-42 Valley](/cursus/partenariats/hec-valley)
+- [] [Certificat Leadership](/cursus/partenariats/leadership) same as Digital Entrepeneur ?
+- [] [Academie Design Thinking](/cursus/partenariats/design-thinking)
 ## ESCP
-- [] [Option Entrepreneuriale](/partenariats/option-E)
+- [] [Option Entrepreneuriale](/cursus/partenariats/option-E)
 
 ## ICART
-- [] [Conferences Histoire de l'art](/partenariats/conferences-icart)
+- [] [Conferences Histoire de l'art](/cursus/partenariats/conferences-icart)
 
 ## Euridis
-- [] [Partenariat](/partenariats/random-partnership)
+- [] [Partenariat](/cursus/partenariats/random-partnership)
 
 ## Matrices
 - Matrice en general
