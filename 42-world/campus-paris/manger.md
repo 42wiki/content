@@ -17,3 +17,7 @@ Il faut se procurer un carte IZLY a l'accueil du RU pour payer son repas, muniss
 ## FoodTruck
 
 Plus d'infos sur https://food.42.fr
+
+## Andy Sushi, traiteur asiatique
+
+6.50€ le menu chinois
