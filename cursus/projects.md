@@ -12,7 +12,7 @@
 ## Système
 - [ ] [ft_linux](/cursus/projects/ft_linux) introduction à la compilation de kernel, partition hardware et compilation de paquets
 
-## Electronique
+## Electronics
 - [ ] [Electronics](/cursus/projects/electronique)
 - [ ] [Level-up](/cursus/projets/level-up)
 
