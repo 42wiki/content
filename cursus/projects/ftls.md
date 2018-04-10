@@ -1,5 +1,5 @@
-<!-- TITLE: Ftls -->
-<!-- SUBTITLE: A quick summary of Ftls -->
+<!-- TITLE: ft_ls -->
+<!-- SUBTITLE: A quick summary of ft_ls -->
 
 ## What
 
