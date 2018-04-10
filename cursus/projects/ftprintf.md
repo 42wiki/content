@@ -1,5 +1,5 @@
-<!-- TITLE: Ftprintf -->
-<!-- SUBTITLE: A quick summary of Ftprintf -->
+<!-- TITLE: ft_printf -->
+<!-- SUBTITLE: A quick summary of ft_printf -->
 
 ## What
 
@@ -7,6 +7,8 @@ Recoder la fonction printf, initiation au concept de fonctions variadiques.
 Bonus : les autres fonctions de la lib printf, notamment sprintf (utile pour la manipulation des buffers) ou dprintf (indispensable pour le debug)
 
 ## How
+
+
 
 ## Why
 
