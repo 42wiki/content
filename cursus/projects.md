@@ -2,18 +2,18 @@
 <!-- SUBTITLE: school projects -->
 
 ## Unix
-- [ft_malloc](/cursus/projects/malloc)
-- [minishell - 21sh - 42sh](/cursus/projects/shell) les projets de shell
-- [taskmaster](/cursus/projects/taskmaster)
-- [ft_ls](/cursus/projects/ft_ls)
+- [ ] [ft_malloc](/cursus/projects/malloc)
+- [ ] [minishell - 21sh - 42sh](/cursus/projects/shell) les projets de shell
+- [x] [taskmaster](/cursus/projects/taskmaster)
+- [ ] [ft_ls](/cursus/projects/ft_ls)
 
 
 ## Système
-- [ft_linux](/cursus/projects/ft_linux) introduction à la compilation de kernel, partition hardware et compilation de paquets
+- [ ] [ft_linux](/cursus/projects/ft_linux) introduction à la compilation de kernel, partition hardware et compilation de paquets
 
 ## Electronique
-- [Electronique](/cursus/projects/electronique)
-- [Level-up](/cursus/projets/level-up)
+- [ ] [Electronics](/cursus/projects/electronique)
+- [ ] [Level-up](/cursus/projets/level-up)
 
 
 [TheTemplate](/cursus/projets/template)
