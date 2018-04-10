@@ -13,6 +13,7 @@ Les campus de 42 à travers le monde
 
 Les écoles cousines offrent le même cursus mais ne font pas partie du groupe 42
 
+- [le101@Lyon](/42-world/le101)
 - [Ecole19@Bruxelles](/42-world/ecole19)
 - [WeThinkCode@SouthAfrica](/42-world/WeThinkCode)
 - [Academie+Plus](/42-world/Academie+Plus)
