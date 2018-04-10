@@ -15,5 +15,8 @@
 - [ ] [Electronics](/cursus/projects/electronique)
 - [ ] [Level-up](/cursus/projets/level-up)
 
+## Algo
+- [ ] [ft_printf](/cursus/projects/ft_printf)
+
 
 [TheTemplate](/cursus/projets/template)
