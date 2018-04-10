@@ -19,5 +19,8 @@
 ## Algo
 - [ ] [ft_printf](/cursus/projects/ft_printf)
 
+## Web
+- [ ] [Piscine PHP](/cursus/projects/php-piscine)
+
 
 [TheTemplate](/cursus/projets/template)
