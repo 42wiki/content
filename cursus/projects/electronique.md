@@ -6,9 +6,18 @@
 Le but est de réaliser un prototype électronique de votre choix.
 
 Projet spécial puisque limité dans le temps. Il commence par des amphis courant janvier ou Grégoire (notre raïs à nous) expose les bases de l'électronmagnétisme et de l'électronique numérique. Suite à cela à lieu un exam de sélection (QCM) où une centaine de personnes sont retenues.
-Elles doivent par la suite composées des groupes de 4, décider d'un projet à réaliser from scratch
+Vous devez par la suite composer des groupes de 4 et décidez d'un projet à réaliser. Le Lab Elec vous est par la suite ouvert jour et nuit. 
 
-(TO BE COMPLETED)
+Toutes les semaines jusqu'à avril, vous aurez des séances de TP en lab le mardi ou suivis de projet avec Grégoire.
+
+Fevrier-Mars : TP Firmware (ProtoBoard) and Hardware (SchematicPrints, Bill of Materials, PCB), 2h chaque mardi avec des créneaux à choisir à l'avance.
+Avril-Mai-Juin : Commande des composants, deadline design PCB, réception, soudure des composants, test du firmware
+Mi-Juillet : Soutenance devant Grégoire, démonstration de votre projet
+
+Skills : electronique numerique, design PCB, firmware, debugging, communication de groupe, ...
+
+Liste des projets des années précédentes :
+- (TO BE COMPLETED)
 
 ## How
 
