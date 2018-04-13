@@ -1,5 +1,5 @@
-<!-- TITLE: Electronique -->
-<!-- SUBTITLE: A quick summary of Electronique -->
+<!-- TITLE: Electronic -->
+<!-- SUBTITLE: A quick summary of Electronic -->
 
 ## What 
 
