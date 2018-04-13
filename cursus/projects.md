@@ -6,7 +6,8 @@
 - [ ] [minishell - 21sh - 42sh](/cursus/projects/shell) les projets de shell
 - [x] [taskmaster](/cursus/projects/taskmaster)
 - [x] [ft_ls](/cursus/projects/ft_ls)
-- [ ] [nm-otool](/cursus/projetcs/nm-otool)
+- [ ] [nm-otool](/cursus/projects/nm-otool)
+- [ ] [ft_select](/cursus/projects/ft_select)
 
 
 ## Système
