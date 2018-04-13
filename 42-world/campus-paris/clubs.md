@@ -11,7 +11,7 @@
 - je crois qu'il y a une asso jeux de roles, jeux de plateaux etc...
 ## autres
 - [Art 42](/42-world/campus-paris/clubs/art42) - ?
-- [42 genesys](/42-world/campus-paris/clubs/42genesys) - ?
+- [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
 - [42 entrepreneurs](/42-world/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/42-world/campus-paris/clubs/42zen) - ?
 
