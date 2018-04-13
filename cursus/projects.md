@@ -8,6 +8,7 @@
 - [x] [ft_ls](/cursus/projects/ft_ls)
 - [ ] [nm-otool](/cursus/projects/nm-otool)
 - [ ] [ft_select](/cursus/projects/ft_select)
+- [ ] [IRC](/cursus/projetcs/IRC)
 
 
 ## Système
