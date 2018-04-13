@@ -7,7 +7,7 @@
 - [42 AI](/campis-paris/clubs/42ai) - groupe de reflexion sur l'intelligence artificielle
 
 ## sport & jeux
-- [42 self defense](/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire
+- [42 self defense](/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire (lundi et jeudi)
 - je crois qu'il y a une asso jeux de roles, jeux de plateaux etc...
 ## autres
 - [Art 42](/campus-paris/clubs/art42) - ?
