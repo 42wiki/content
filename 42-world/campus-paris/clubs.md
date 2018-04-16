@@ -18,7 +18,7 @@
 - [42 pixels](42-world/campus-paris/pixels)
 ### clubs sans page
 
-[TheTemplate](42-world/campus-paris/clubs/thetemplate)
+[META] Si vous ne savez pas comment remplir votre page d'assos => [TheTemplate](42-world/campus-paris/clubs/thetemplate)
 
 Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment m'y prendre, soit on fait le tour 1 par 1 soit on attend la release
 Il y a pas mal de channels slacks de clubs qui ont l'air mort aussi, difficile de savoir lesquels sont actifs
