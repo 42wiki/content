@@ -14,7 +14,7 @@
 - [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
 - [42 entrepreneurs](/42-world/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/42-world/campus-paris/clubs/42zen) - ?
-
+- [42 pixels](42-world/campus-paris/pixels)
 ### clubs sans page
 
 Ce serait bien de cataloguer tous les clubs actifs mais je sais pas bien comment m'y prendre, soit on fait le tour 1 par 1 soit on attend la release
