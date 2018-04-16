@@ -14,3 +14,7 @@ Les étudiants peuvent participer à la pédagogie sur https://42born2peer.42.fr
 -----
 
 [peer correcting](/cursus/pedagogie/peer-correcting)
+
+-----
+
+[Les Tuteurs](/cursus/pedagogie/Les Tuteurs)
