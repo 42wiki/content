@@ -4,6 +4,8 @@ Le wiki est désormais en beta publique
 
 les discussions techniques sont sur slack, demander une invitation à @abarriel @wescande ou @jhalford
 
+les logs : github.com/42wiki/content
+
 -----
 
 [:school: les campus](/42-world)
