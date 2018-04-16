@@ -8,8 +8,8 @@
 
 ## sport & jeux
 - [42 self defense](/42-world/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire (lundi et jeudi)
-- je crois qu'il y a une asso jeux de roles, jeux de plateaux etc...
-- [42 workout](42-world/campus-paris/42workout)
+- [42 Slide&Dice](42-world/campus-paris/clubs/42Slide&Dice) - jeux de roles
+- [42 workout](42-world/campus-paris/clubs/42workout)
 ## autres
 - [Art 42](/42-world/campus-paris/clubs/art42) - ?
 - [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
