@@ -15,7 +15,7 @@
 - [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
 - [42 entrepreneurs](/42-world/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/42-world/campus-paris/clubs/42zen) - ?
-- [42 pixels](42-world/campus-paris/pixels)
+- [Studios_42](42-world/campus-paris/studios_42)
 ### clubs sans page
 
 [META] Si vous ne savez pas comment remplir votre page d'assos => [TheTemplate](42-world/campus-paris/clubs/thetemplate)
