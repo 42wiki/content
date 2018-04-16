@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Thetemplate -->
 
 # TheTemplate
-Comment remplir les pages projets ? Page à titre indicatif si vous manquez d'inspiration
+Comment remplir les pages clubs ? Page à titre indicatif si vous manquez d'inspiration
 N'hésitez pas à la modifier. 
 
 ## What
