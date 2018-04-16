@@ -17,4 +17,4 @@ Les étudiants peuvent participer à la pédagogie sur https://42born2peer.42.fr
 
 -----
 
-[Les Tuteurs](/cursus/pedagogie/Les Tuteurs)
+[Les Tuteurs](/cursus/pedagogie/LesTuteurs)
