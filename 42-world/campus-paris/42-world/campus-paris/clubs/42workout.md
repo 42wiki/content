@@ -2,7 +2,7 @@
 <!-- SUBTITLE: "Mens sana in corpore sano" -->
 
 # What
-L’association 42Workout est une association sportive réunissant des élèves de 42 (mais pas que) pour faire un entraînement ou entretien physique mais aussi à faire de la sensibilisation sur les bienfaits de la pratique d’activités sportives et d’une alimentation saine.
+L’association 42Workout est une association sportive réunissant des élèves de 42 (mais pas que) pour faire un entraînement ou entretien physique mais aussi pour faire de la sensibilisation sur les bienfaits de la pratique d’activités sportives et d’une alimentation saine.
 
 Nous participons aussi à des événements de type Mud Race ou course de fond et on fait des entraînements spécifiques pour préparer ensemble ce type de défis, c'est beaucoup plus simple de se motiver et de ne pas perdre sa motivation quand on est une équipe ! 
 
