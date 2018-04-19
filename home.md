@@ -23,7 +23,9 @@ les logs : github.com/42wiki/content
 	- [pedagogie](/cursus/pedagogie)
 	- [websitebystudent](/school-website)
 
+-----
 
+[TheFAQ](/cursus/FAQ)
 # Roadmap Wiki42
 
 ## todo content
