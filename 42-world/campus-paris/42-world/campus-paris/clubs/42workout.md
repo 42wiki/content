@@ -12,7 +12,7 @@ Nous participons aussi à des événements de type Mud Race ou course de fond et
 Le lieux d'entraînement ansi que l'horaire peuvent varier (même si en géneral c'est rdv à 42 à 19h15 et début de la séance au stade Max Roussié à 19h30 lundi, mercredi, vendredi), n'hésitez donc pas à rejoindre le groupe facebook "42 Workout" (https://www.facebook.com/groups/548934391878727/) pour être sûr d'avoir à chaque fois les bonnes info.
 De plus, signaler à l'avance si vous comptez participer aide l'organisateur à savoir si tout le monde est là avant de commencer.
 
-Les programmes proposés sont composés principalements d’exercices au poids du corps, l'exo le plus fréquent c'est les burpees :)
+Les programmes proposés sont composés principalement d’exercices au poids du corps, l'exo le plus fréquent c'est les burpees :)
 Si vous êtes nouveaux les organisateurs sauront vous montrer/expliquer les différents exercises dans le detail et, si nécessaire, vous proposer des variantes plus simples car l'objectif est de terminer tous ensemble et sans se blesser !
 
 Les séances durent d’une à deux heures, une bouteille d'eau et des vetements de sports sont fortements recomandés.
