@@ -21,7 +21,7 @@ les logs : github.com/42wiki/content
 	- [projets](/cursus/projects)
 	- [partenariats, matrices](/cursus/partenariats)
 	- [pedagogie](/cursus/pedagogie)
-	- [websitebystudent](/school-website)
+	- [school-websites](/school-website)
 
 -----
 
