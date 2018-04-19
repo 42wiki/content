@@ -1,4 +1,4 @@
 <!-- TITLE: Les Tuteurs -->
-<!-- SUBTITLE: A quick summary of Lestuteurs -->
+<!-- SUBTITLE: A quick summary of Les Tuteurs -->
 
 # Les Tuteurs 
