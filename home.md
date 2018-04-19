@@ -30,7 +30,7 @@ les logs : github.com/42wiki/content
 
 ## todo content
 
-- [ ] trouver les respos des clubs/assos pour qu'ils fassent leur page
+- [x] trouver les respos des clubs/assos pour qu'ils fassent leur page
 - [ ] parler au bocal ?
 
 - Pedagogie
@@ -42,7 +42,7 @@ les logs : github.com/42wiki/content
 
 - Cursus
 	- [ ] les piscines pedagogiques
-	- [ ] cursus electronique
+	- [x] cursus electronique
 	- [ ] stages
 
 - bouton anglais/francais/other languages ?
