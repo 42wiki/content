@@ -20,5 +20,5 @@ Les séances durent d’une à deux heures, une bouteille d'eau et des vetements
 # Why
 - Pour rester en santé
 - Pour avoir un groupe qui t'aide à atteindre tes objectifs, sans te sentir jugé
-- Pour partager tes passsions et tes valeurs
+- Pour partager tes passions
 - Pour renconter autres 42 et de differentes années
