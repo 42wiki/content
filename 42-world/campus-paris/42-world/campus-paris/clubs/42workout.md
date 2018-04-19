@@ -7,7 +7,7 @@ L’association 42Workout est une association sportive réunissant des élèves 
 Nous participons aussi à des événements de type Mud Race ou course de fond et on fait des entraînements spécifiques pour préparer ensemble ce type de défis, c'est beaucoup plus simple de se motiver et de ne pas perdre sa motivation quand on est une équipe ! 
 
 # How
-3 workouts par semaine (lundi/mercredi/vendredi) sont organisées, toutes les séances sont gratuites et ouvertes pour tout niveaux.
+3 workouts par semaine (lundi/mercredi/vendredi) sont organisées, toutes les séances sont gratuites et ouvertes pour tous niveaux.
 
 Le lieux d'entrainement ansi que l'horaire peut varier (même si en géneral c'est rdv à 42 à 19h15 et debut de la séance au stade Max Roussié à 19h30), n'hesitez donc pas à rejoindre le groupe facebook "42 Workout" (https://www.facebook.com/groups/548934391878727/) pour être sur d'avoir à chaque fois les bonnes info.
 De plus, signaler à l'avance si vous comptez participer va aider l'organisateur à savoir si tout le monde est là avant de commencer.
