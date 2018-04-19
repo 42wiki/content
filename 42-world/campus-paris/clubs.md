@@ -9,7 +9,7 @@
 ## sport & jeux
 - [42 self defense](/42-world/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire (lundi et jeudi)
 - [42 Slice&Dice](42-world/campus-paris/clubs/42Slide&Dice) - Jeux de société / Jeu de rôle (vendredi soir)
-- [42 workout](42-world/campus-paris/clubs/42workout)
+- [42 workout](42-world/campus-paris/clubs/42workout) - sport au poids du corps (lundi, mercredi, vendredi)
 ## autres
 - [Art 42](/42-world/campus-paris/clubs/art42) - ?
 - [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
