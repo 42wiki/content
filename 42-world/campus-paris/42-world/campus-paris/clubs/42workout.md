@@ -9,7 +9,7 @@ Nous participons aussi à des événements de type Mud Race ou course de fond et
 # How
 3 workouts par semaine (lundi/mercredi/vendredi) sont organisées, toutes les séances sont gratuites et ouvertes pour tous niveaux.
 
-Le lieux d'entrainement ansi que l'horaire peut varier (même si en géneral c'est rdv à 42 à 19h15 et début de la séance au stade Max Roussié à 19h30), n'hésitez donc pas à rejoindre le groupe facebook "42 Workout" (https://www.facebook.com/groups/548934391878727/) pour être sur d'avoir à chaque fois les bonnes info.
+Le lieux d'entrainement ansi que l'horaire peuvent varier (même si en géneral c'est rdv à 42 à 19h15 et début de la séance au stade Max Roussié à 19h30 lundi, mercredi, vendredi), n'hésitez donc pas à rejoindre le groupe facebook "42 Workout" (https://www.facebook.com/groups/548934391878727/) pour être sur d'avoir à chaque fois les bonnes info.
 De plus, signaler à l'avance si vous comptez participer aide l'organisateur à savoir si tout le monde est là avant de commencer.
 
 Les programmes proposés sont composés principalements d’exercices au poids du corps, l'exo le plus fréquent c'est les burpees :)
