@@ -1,4 +1,4 @@
-<!-- TITLE: Faq -->
+<!-- TITLE: FAQ -->
 <!-- SUBTITLE: Non-obvious answers to obvious issues, or vice versa -->
 
 # The FAQ
