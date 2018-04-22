@@ -16,6 +16,7 @@
 - [42 entrepreneurs](/42-world/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/42-world/campus-paris/clubs/42zen) - ?
 - [Studios_42](42-world/campus-paris/studios_42)
+- [Fractales](42-world/campus-paris/fractales)
 ### clubs sans page
 
 [META] Si vous ne savez pas comment remplir votre page d'assos => [TheTemplate](42-world/campus-paris/clubs/thetemplate)
