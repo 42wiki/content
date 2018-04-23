@@ -13,5 +13,6 @@
 - https://warzone42.fr/ les clusters + des stats
 - https://stud42.fr/ les clusters
 - https://steakoverflow.42.fr/ les commandes au foodtruck
+- http://scam.42.fr/kfet.html big brother pour tous
 
 [META] tuto sur comment utiliser l'API de l'école ?
