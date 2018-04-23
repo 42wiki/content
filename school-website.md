@@ -5,6 +5,7 @@
 - http://www.42.fr/ le site principal français
 - https://www.42.us.org/ le site principal US
 - https://adm.42.fr le site pour toutes les questions administratives
+- https://42.immojeune.com/ le site des annonces immo
 
 ## Par les étudiants
 
