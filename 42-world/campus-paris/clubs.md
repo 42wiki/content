@@ -10,13 +10,14 @@
 - [42 self defense](/42-world/campus-paris/clubs/42selfdefense) - atelier selfdefense hebdomadaire (lundi et jeudi)
 - [42 Slice&Dice](42-world/campus-paris/clubs/42Slide&Dice) - Jeux de société / Jeu de rôle (vendredi soir)
 - [42 workout](42-world/campus-paris/clubs/42workout) - sport au poids du corps (lundi, mercredi, vendredi)
+- [Airsoft 42](42-world/campus-paris/clubs/airsoft42) - organisation régulière d'airsoft
 ## autres
 - [Art 42](/42-world/campus-paris/clubs/art42) - ?
 - [42 genesys](/42-world/campus-paris/clubs/42genesys) - junior entreprise
 - [42 entrepreneurs](/42-world/campus-paris/clubs/42entrepreneurs) - l'entreprenariat à 42
 - [42 zen](/42-world/campus-paris/clubs/42zen) - ?
 - [Studios_42](42-world/campus-paris/studios_42)
-- [Fractales](42-world/campus-paris/fractales)
+- [Fractales](42-world/campus-paris/fractales) dead ?
 ### clubs sans page
 
 [META] Si vous ne savez pas comment remplir votre page d'assos => [TheTemplate](42-world/campus-paris/clubs/thetemplate)
