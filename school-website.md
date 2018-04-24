@@ -6,6 +6,7 @@
 - https://www.42.us.org/ le site principal US
 - https://adm.42.fr le site pour toutes les questions administratives
 - https://42.immojeune.com/ le site des annonces immo
+- https://tv.42.fr/ la TV, rediff des confs et reportages
 
 ## Par les étudiants
 
