@@ -10,6 +10,7 @@ les logs : github.com/42wiki/content
 
 [:school: les campus](/42-world)
 	- [paris - clubs et associations](/42-world/campus-paris/clubs)
+	- [fremont - clubs et associations](/42-world/campus-fremont/clubs)
 
 -----
 
