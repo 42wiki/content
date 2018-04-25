@@ -15,5 +15,6 @@
 - https://stud42.fr/ les clusters
 - https://steakoverflow.42.fr/ les commandes au foodtruck
 - http://scam.42.fr/ big brother pour tous
+- https://peers.extends42.fr/#/ who's working on what
 
 [META] tuto sur comment utiliser l'API de l'école ?
