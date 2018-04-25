@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Non-obvious answers to obvious issues, or vice versa -->
 
 # The FAQ
-- problemes techniques => jhalford, abarell
+- problemes techniques => jhalford, abarriel
 - problemes content => ariard
 - free knowledge as in free software, participation libre
 - pas de lien avec le bocal
