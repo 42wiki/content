@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of About Fremont -->
 
 # Fremont
+Topic général : https://forum.intra.42.fr/topics/16164/messages
 
 ## A propos
 
@@ -16,4 +17,4 @@ Le campus fait à peu près 24 200 m2. Le campus a un dortoir gratuit de 300 pla
 
 ## Projects spécifiques
 
-Frémont dispose(rait?) de projets spécifiques. 
+Frémont dispose(rait?) de projets spécifiques comme les sujets cryptographiques, les travaux d'Hercules.
