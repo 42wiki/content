@@ -18,3 +18,5 @@
 - https://peers.extends42.fr/#/ who's working on what
 
 [META] tuto sur comment utiliser l'API de l'école ?
+
+- https://api.intra.42.fr
