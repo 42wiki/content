@@ -9,6 +9,7 @@
 - https://tv.42.fr/ la TV, rediff des confs et reportages
 - https://steakoverflow.42.fr/ les commandes au foodtruck
 - http://scam.42.fr/ big brother pour tous
+- https://entreprises.42.fr/ pour les compagnies
 
 ## Par les étudiants
 
